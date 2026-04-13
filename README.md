@@ -26,4 +26,4 @@ Bu proje, kullanıcıdan alınan kitap ismine karşılık yazarını bulmayı am
 ✅ Sonuç
 Bu proje, basit bir veri işleme uygulaması olarak kitap-yazar eşleştirmesi yapar.
 Sunum için uygun, anlaşılır ve 4 parçalı yapısıyla öğretici bir örnektir.
-GitHub’a yüklenerek tamamlanmış bir proje olarak sunulabilir.
+
